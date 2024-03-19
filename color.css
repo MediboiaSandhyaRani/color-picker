@@ -1,0 +1,61 @@
+.bg-container{
+    background-color:#ffffff;
+    height:100vh;
+}
+.heading{
+    font-family: "Roboto";
+    font-size:50px;
+    font-weight:800;
+    margin-bottom:20px;
+}
+.button1{
+    background-color: #e0e0e0 ;
+    font-family: "Roboto";
+    border-radius:10px;
+    border-color: black;
+    height:10vh;
+}
+.button2{
+    background-color: #6fcf97;
+    font-family: "Roboto";
+    border-radius:10px;
+    border-color: black;
+    height:10vh;
+}
+.button3{
+    background-color: #56ccf2;
+    font-family: "Roboto";
+    border-radius:10px;
+    border-color: black;
+    height:10vh;
+}
+.button4{
+    background-color: #bb6bd9;
+    font-family: "Roboto";
+    border-radius:10px;
+    border-color: black;
+    height:10vh;
+}
+.box{
+    background-color: black;
+    font-family:"Roboto";
+    font-size:20px;
+    margin-top:10px;
+    color:white;
+    padding-top:15px;
+    width:40vw;
+    margin-left:230px;
+    height:10vh;
+    border-radius: 10px;
+    align-content: flex-start;
+    margin-top:20px;
+}
+.code{
+    color:#49a6e9;
+}
+.text{
+    font-size:20px;
+    margin-left:200px;
+    width:400px;
+
+}
